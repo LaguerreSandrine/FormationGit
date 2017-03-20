@@ -3,6 +3,7 @@ bloc1
 
 bloc2
 bloc2
+bloc2
 
 bloc3
 bloc3
